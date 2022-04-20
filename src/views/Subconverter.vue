@@ -266,6 +266,11 @@ export default {
                   "https://raw.githubusercontent.com/flguize/zy/main/gz1.ini"
               },
               {
+                label: "站长自用贰",
+                value:
+                  "https://raw.githubusercontent.com/flguize/zy/main/gz1.ini"
+              },
+              {
                 label: "No-Urltest",
                 value:
                   "https://cdn.jsdelivr.net/gh/SleepyHeeead/subconverter-config@master/remote-config/universal/no-urltest.ini"
