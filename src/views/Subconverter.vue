@@ -263,7 +263,7 @@ export default {
               {
                 label: "站长自用",
                 value:
-                  "https://raw.githubusercontent.com/Subc10086/fenliugz/main/ICATzygz1.ini"
+                  "https://raw.githubusercontent.com/flguize/zy/main/gz1.ini"
               },
               {
                 label: "No-Urltest",
