@@ -268,7 +268,7 @@ export default {
               {
                 label: "站长自用贰",
                 value:
-                  "https://raw.githubusercontent.com/flguize/zy/main/gz1.ini"
+                  "https://raw.githubusercontent.com/flguize/zy/main/gz2.ini"
               },
               {
                 label: "No-Urltest",
