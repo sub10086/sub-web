@@ -255,7 +255,10 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://api.dingyue.gq/sub?" }],
+        backendOptions: [{ value: "https://api.dingyue.gq/sub?" },label: "站长自用",
+                value:
+                  "https://api2.dingyue.gq/sub?"
+              },],
         remoteConfig: [
           {
             label: "universal",
